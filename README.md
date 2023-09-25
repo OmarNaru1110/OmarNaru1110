@@ -1,5 +1,5 @@
 <h1 align='center'> Hi 👋, I'm Omar Naru </h1>
-
+<a style="display: block; text-align: center;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7006C&width=435&lines=A+Passionate+Backend+Developer" alt="Typing SVG" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=OmarNaru1110&label=Profile%20views&color=0e75b6&style=flat" alt="OmarNaru1110"/> </p>
 
 - I'm a CS Student 💻
