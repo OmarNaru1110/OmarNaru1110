@@ -33,7 +33,7 @@
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1100px height=95px>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Ali-Elshorpagi&show_icons=true&locale=en&theme=radical" alt="OmarNaru1110" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=OmarNaru1110&show_icons=true&locale=en&theme=radical" alt="OmarNaru1110" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarNaru1110&show_icons=true&locale=en&layout=compact&theme=radical" alt="OmarNaru1110"/> </p>
 
 
