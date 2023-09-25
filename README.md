@@ -1,4 +1,4 @@
-<h1 align='center'> Hi 👋, I'm Omar Naru </h1>
+![image](https://github.com/OmarNaru1110/OmarNaru1110/assets/126495695/a648480c-7507-45ce-93b7-0f36ee4279c0)<h1 align='center'> Hi 👋, I'm Omar Naru </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=OmarNaru1110&label=Profile%20views&color=0e75b6&style=flat" alt="OmarNaru1110"/> </p>
 
@@ -15,7 +15,7 @@
   </a> 
   &emsp;
   <a href="https://cplusplus.com/doc/" target="_blank"> 
-    <img alt="C++" src="[https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white](https://icons8.com/icon/40669/c%2B%2B)">
+    <img alt="C++" src="![image](https://github.com/OmarNaru1110/OmarNaru1110/assets/126495695/6b391489-2853-4793-83f9-3737f3c8969c)">
   </a> 
     &emsp;
     <a href="https://git-scm.com/doc"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
