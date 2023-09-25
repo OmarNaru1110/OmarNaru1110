@@ -15,7 +15,7 @@
   </a> 
   &emsp;
   <a href="https://cplusplus.com/doc/" target="_blank"> 
-    <img alt="C++" src="![image](https://github.com/OmarNaru1110/OmarNaru1110/assets/126495695/6b391489-2853-4793-83f9-3737f3c8969c)">
+    <img alt="C++" src="https://github.com/OmarNaru1110/OmarNaru1110/assets/126495695/6b391489-2853-4793-83f9-3737f3c8969c">
   </a> 
     &emsp;
     <a href="https://git-scm.com/doc"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
