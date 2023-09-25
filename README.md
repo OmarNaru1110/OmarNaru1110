@@ -1,4 +1,4 @@
-![image](https://github.com/OmarNaru1110/OmarNaru1110/assets/126495695/a648480c-7507-45ce-93b7-0f36ee4279c0)<h1 align='center'> Hi 👋, I'm Omar Naru </h1>
+<h1 align='center'> Hi 👋, I'm Omar Naru </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=OmarNaru1110&label=Profile%20views&color=0e75b6&style=flat" alt="OmarNaru1110"/> </p>
 
