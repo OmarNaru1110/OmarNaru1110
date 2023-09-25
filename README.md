@@ -3,9 +3,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=OmarNaru1110&label=Profile%20views&color=0e75b6&style=flat" alt="OmarNaru1110"/> </p>
 
 - I'm a CS Student 💻
-- I'm interested in learning the fundamentals of programming 💻
-- I love playing Chess 
-
+- I'm interested in fundamentals of programming 💻
+- I'm interested in problem solving
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1100px height=95px>
+  
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> 
 ## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="5%"> Connect with me
 <p align="center"> 
