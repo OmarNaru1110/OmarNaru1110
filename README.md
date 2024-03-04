@@ -2,8 +2,8 @@
 <a style="display: block; text-align: center;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7006C&width=435&lines=A+Passionate+Backend+Developer" alt="Typing SVG" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=OmarNaru1110&label=Profile%20views&color=0e75b6&style=flat" alt="OmarNaru1110"/> </p>
 
-- I'm a CS Student 💻
 - I'm interested in fundamentals of programming 💻
+- I'm interested in computer science topics
 - I'm interested in problem solving
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1100px height=95px>
   
