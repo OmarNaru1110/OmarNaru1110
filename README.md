@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=OmarNaru1110&label=Profile%20views&color=0e75b6&style=flat" alt="OmarNaru1110"/> </p>
 <br>
 <p align="center">
-  interested in programming fundamentals, computer science topics, problem solving
+  interested in programming fundamentals, computer science topics and problem solving
 </p>
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1100px height=95px>
