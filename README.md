@@ -1,6 +1,6 @@
 # Omar Elnaggar
 I love building systems that actually scale, solving tough backend problems, and learning how things work under the hood.  
-Currently deep in .NET, and Go.
+Currently deep in .NET and Go.
 
 ## Things I’ve built
 * **Aggar** – a vehicle rental platform with real-time chat, secure payments, and automated booking flows.  
