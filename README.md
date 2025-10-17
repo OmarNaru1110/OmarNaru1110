@@ -7,8 +7,6 @@ Currently deep in .NET and Go.
   > Designed to scale and built to actually solve a problem.
 * **Yaqra** – a book-centered social platform for readers and discussions.  
   > Focused on meaningful engagement and efficient backend design.
-* **E-Learning** – a real-time language learning platform using SignalR and WebRTC.  
-  > Blending communication and tech to make learning interactive.
 
 ## What keeps me curious
 Computer science fundamentals, distributed systems, clean architecture, performance tuning, and anything that makes me ask *“how does this actually work?”*
