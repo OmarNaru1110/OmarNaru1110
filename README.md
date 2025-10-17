@@ -8,7 +8,7 @@ Currently deep in .NET and Go.
 * **Yaqra** – a book-centered social platform for readers and discussions.  
   > Focused on meaningful engagement and efficient backend design.
 * **Finalist – Code Refine Competition, IEEE Victories 4th Edition (2025)**  
-  > Recognized for designing a performance-optimized backend system.
+  > Recognized for designing a performance-optimized backend systems.
 
 ## What keeps me curious
 Computer science fundamentals, distributed systems, clean architecture, performance tuning, and anything that makes me ask *“how does this actually work?”*
