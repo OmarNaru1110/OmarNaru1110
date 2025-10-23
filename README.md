@@ -14,7 +14,7 @@ Currently deep in .NET and Go.
 Computer science fundamentals, distributed systems, clean architecture, performance tuning, and anything that makes me ask *“how does this actually work?”*
 
 ## Currently learning
-Nginx.
+Look at my profile picture.
 
 ## Outside of code
 I love nature, quiet places, and someday hope to visit Mount Fuji.  
