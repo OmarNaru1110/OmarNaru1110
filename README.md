@@ -28,4 +28,4 @@ But since you asked:
 ---
 
 📬 **Let’s connect**  
-[Email](mailto:omarnaru2002@gmail.com) • [LinkedIn](https://www.linkedin.com/in/omar-elnaggar1110/) • [X](https://x.com/OmarNaru1110)
+[Email](mailto:omarnaru2002@gmail.com) • [LinkedIn](https://www.linkedin.com/in/omar-elnaggar1110/) • [X](https://x.com/OmarNaru1110) • [Discord](https://discord.com/users/704908890609025065)
