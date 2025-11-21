@@ -3,6 +3,8 @@ I love building systems that actually scale, solving tough backend problems, and
 Currently deep in .NET and Go.
 
 ## Things I’m proud of
+* **Ainaa** – intelligent DNS filtering with Redis caching and DynamoDB-backed protection.
+  > Fast, reliable, and designed to block or allow queries efficiently while scaling with CoreDNS.
 * **Aggar** – a vehicle rental platform with real-time chat, secure payments, and automated booking flows.  
   > Designed to scale and built to actually solve a problem.
 * **Yaqra** – a book-centered social platform for readers and discussions.  
