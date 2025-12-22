@@ -3,13 +3,13 @@ I love building systems that actually scale, solving tough backend problems, and
 Currently deep in .NET and Go.
 
 ## Things I’m proud of
-* **Ainaa** – intelligent DNS filtering with Redis caching and DynamoDB-backed protection.
+* [**Ainaa**](https://github.com/OmarNaru1110/coredns-ainaa) – intelligent DNS filtering with Redis caching and DynamoDB-backed protection.
   > Fast, reliable, and designed to block or allow queries efficiently while scaling with CoreDNS.
-* **byto** – modern, lightweight, and powerful GUI for yt-dlp, designed to simplify media downloads.
+* [**byto**](https://github.com/OmarNaru1110/byto) – modern, lightweight, and powerful GUI for yt-dlp, designed to simplify media downloads.
   > byto wraps the complexity of the command-line interface into a beautiful, easy-to-use desktop application.
-* **Aggar** – a vehicle rental platform with real-time chat, secure payments, and automated booking flows.  
+* [**Aggar**](https://github.com/Aggar-rent-a-ride) – a vehicle rental platform with real-time chat, secure payments, and automated booking flows.  
   > Designed to scale and built to actually solve a problem.
-* **Yaqra** – a book-centered social platform for readers and discussions.  
+* [**Yaqra**](https://github.com/Yaqra) – a book-centered social platform for readers and discussions.  
   > Focused on meaningful engagement and efficient backend design.
 * **Finalist – Code Refine Competition, IEEE Victories 4th Edition (2025)**  
   > Recognized for designing a performance-optimized backend systems.
