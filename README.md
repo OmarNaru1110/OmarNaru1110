@@ -1,6 +1,5 @@
 # Omar Elnaggar
 I love building systems that actually scale, solving tough backend problems, and learning how things work under the hood.  
-Currently deep in .NET and Go.
 
 ## Things I’m proud of
 * [**Ainaa**](https://github.com/OmarNaru1110/coredns-ainaa) – intelligent DNS filtering with Redis caching and DynamoDB-backed protection.
